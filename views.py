@@ -17,8 +17,8 @@ def test():
     description= []
     image= []
     content= []
-    # url= []
-    # publishedAt= []
+    url= []
+    publishedAt= []
     
     
     for i in range(len(articles)):
@@ -29,8 +29,8 @@ def test():
         description.append(myarticles['description'])
         image.append(myarticles['urlToImage'])
         content.append(myarticles['content'])
-        # url.append(myarticles['url'])
-        # publishedAt.append(myarticles['publishedAt'])
+        url.append(myarticles['url'])
+        publishedAt.append(myarticles['publishedAt'])
         
         my_list = zip(tit,description,image,content)
         

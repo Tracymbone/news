@@ -12,7 +12,7 @@ Software Developer
 
 # Project Description 
 
-This project is about a github website where you can search different users who post their projects in github and be able to see the different repositories that they have worked on.
+This project is about an application where one can get news headlines and sources  from backend using an api key and its url.This project is deployed to heroku. 
 
 # Project Link
 
